@@ -18,7 +18,7 @@ white: #d8e7f4
 
 body {
     background-color: #d8e7f4;
-    background-image: url(images/lolackbackground.png); 
+    background-image: url(lolackbackground.png); 
     
     background-size: cover;
     background-repeat: no-repeat;
